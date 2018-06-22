@@ -1,4 +1,4 @@
-package com.example.fcmtestrp;
+package com.example.fcmtest;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
